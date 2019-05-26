@@ -1,2 +1,3 @@
-Najprej poenemo program ROI_definer, kjer definiramo globalno ROI obmoèje in lokalna ROI obmoèja.
-Nato poenemo Glavni_program.
+Najprej poÅ¾enemo program ROI_definer, kjer definiramo globalno ROI obmoÄje in lokalna ROI obmoÄja.
+Nato poÅ¾enemo Glavni_program.
+Posnetek mora biti v mapi TestVideo
